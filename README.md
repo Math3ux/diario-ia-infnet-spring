@@ -7,7 +7,7 @@ Diário IA é uma aplicação Java Spring Boot que demonstra uma integração si
 - `EstrategiaReflexao` (estratégias) — classes que geram prompts específicos (sentimento, autoconhecimento, etc.)
 
 ### Tecnologias
-- Java 17+ (verifique seu JDK)
+- Java 21
 - Spring Boot
 - Maven
 
