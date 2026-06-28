@@ -27,7 +27,7 @@ public class DiarioIaApplication implements CommandLineRunner {
 
 		EntradaDiario entrada = new EntradaDiario(
 				"001",
-				"Hoje o dia foi produtivo. Consegui finalizar a estruturação de um projeto da faculdade aplicando Clean Code e padrões de projeto GoF. Me sinto confiante, mas o prazo de entrega me deixa um pouco ansioso.",
+				"Hoje o dia foi produtivo. Consegui finalizar a estruturação de um projeto da faculdade aplicando Clean Code e padrões de projeto. Me sinto confiante, mas o prazo de entrega me deixa um pouco ansioso.",
 				"27/06/2026"
 		);
 

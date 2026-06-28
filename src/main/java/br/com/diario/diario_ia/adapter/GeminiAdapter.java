@@ -2,7 +2,6 @@ package br.com.diario.diario_ia.adapter;
 
 import br.com.diario.diario_ia.port.ModeloLinguagem;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.context.annotation.Bean;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.MediaType;
